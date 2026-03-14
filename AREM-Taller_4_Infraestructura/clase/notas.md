@@ -1,12 +1,12 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+_7-03-26._
 
 ## 👥 Integrantes presentes
--Andrés Beltrán
--Felipe Ballesteros
--Tomás Ariza
+- Tomás Ariza
+- Felipe Ballesteros
+- Andrés Beltrán
 
 ## 🧠 Actividades realizadas en clase
 
