@@ -16,7 +16,7 @@ Durante la sesión se analizó el caso de RedExpress y cómo se podía trasladar
 
 ## 🧩 Boceto inicial del modelo
 
-![https://github.com/pipe1408/AREM-G1-trabajos-en-clase/blob/main/AREM-Taller_4_Infraestructura/clase/diagrama-red-express.drawio.png?raw=true]
+![](https://github.com/pipe1408/AREM-G1-trabajos-en-clase/blob/main/AREM-Taller_4_Infraestructura/clase/diagrama-red-express.drawio.png?raw=true)
 ## 🔁 Tareas definidas para complementar el taller
 
 Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
