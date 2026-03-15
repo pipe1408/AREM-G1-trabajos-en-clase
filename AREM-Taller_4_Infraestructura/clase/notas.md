@@ -12,15 +12,11 @@ _7-03-26._
 
 Describa brevemente qué se hizo durante la sesión:
 
-- ¿Qué se discutió con el equipo?
-- ¿Qué decisiones de modelado se tomaron?
-- ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
-- ¿Qué parte del trabajo se alcanzó a desarrollar?
+Durante la sesión se analizó el caso de RedExpress y cómo se podía trasladar la infraestructura mencionada en el enunciado a un diagrama claro que permitiera identificar de forma más fácil los posibles puntos críticos. También se dio la discusión del rol de los balanceadores de carga, dónde debían ubicarse en el diagrama según la información disponible y cuál es su diferencia con el API gateway.
 
 ## 🧩 Boceto inicial del modelo
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
-
+![https://github.com/pipe1408/AREM-G1-trabajos-en-clase/blob/main/AREM-Taller_4_Infraestructura/clase/diagrama-red-express.drawio.png?raw=true]
 ## 🔁 Tareas definidas para complementar el taller
 
 Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
